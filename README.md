@@ -32,3 +32,7 @@ A secure, multi-turn clinical symptom-checking application built with a Flask ba
 
 ## Notice
 This repository is developed strictly for educational and academic use-cases. It does NOT constitute valid medical advice.
+
+## Note
+Originally developed together by
+@Muhammad-Abaan and @JAXX399.
